@@ -1,5 +1,9 @@
 package com.common_droid_libs.app;
 
+/**
+ * @author Bijesh
+ */
+
 import android.app.Application;
 import android.content.Context;
 
